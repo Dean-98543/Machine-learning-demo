@@ -1,1 +1,3 @@
-You could do anything you want if you put your mind to it.
+放一些机器学习（主要是深度学习）的公式推导和代码
+
+侧重知行合一，主要是先行后知
