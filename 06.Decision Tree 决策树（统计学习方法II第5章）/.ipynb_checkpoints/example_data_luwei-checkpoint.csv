@@ -1,0 +1,15 @@
+humility	outlook	temp	windy	play
+high	sunny	hot	False	no
+high	sunny	hot	True	no
+high	overcast	hot	False	yes
+high	rainy	mild	False	yes
+normal	rainy	cool	False	yes
+normal	rainy	cool	True	no
+normal	overcast	cool	True	yes
+high	sunny	mild	False	no
+normal	sunny	cool	False	yes
+normal	rainy	mild	False	yes
+normal	sunny	mild	True	yes
+high	overcast	mild	True	yes
+normal	overcast	hot	False	yes
+high	rainy	mild	True	no
